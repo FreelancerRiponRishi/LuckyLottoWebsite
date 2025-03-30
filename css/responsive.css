@@ -1,0 +1,1328 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 1200px) and (max-width: 1279px) {
+.header-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+.privacypolicy-area {
+	padding: 60px 30px;
+}
+
+.footer-area {
+    padding: 60px 30px;
+    padding-bottom: 40px;
+}
+
+.footer-left {
+    width: 55%;
+}
+
+.footer-right {
+    width: 45%;
+}
+
+
+
+
+.hero-area {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.herotop-left h1 {
+    font-size: 70px;
+    line-height: 105px;
+}
+
+.herotoppart {
+    align-items: center;
+    gap: 10px;
+}
+
+
+.herototimerbox-text h3 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+}
+
+
+.herototimerbox-text {
+    width: 50%;
+}
+
+.herototime {
+    width: 50%;
+}
+
+.timer span {
+    font-size: 20px;
+    line-height: 45px;
+    width: 41px;
+    height: 45px;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.heroimageitem3 a img {
+    width: 35px;
+    height: 35px;
+    display: block;
+    margin-left: 13px;
+}
+
+.heroimageitem3 a {
+        font-size: 16px;
+        width: 174px;
+        height: 56px;
+        padding: 11px;
+        border-radius: 14px;
+        text-align: center;
+        margin: auto;
+        margin-right: 0;
+}
+
+
+.lottogsoe-area {
+    padding-left: 30px;
+    padding-right: 30px;    
+}
+
+.lotterySupport-area {
+    padding-left: 30px;
+    padding-right: 30px;     
+}
+
+.supportitem {
+    height: 300px;
+}
+
+
+.playplayers-area {
+    padding-left: 30px;
+    padding-right: 30px;     
+}
+
+.latestfaq-area {
+    padding-left: 30px;
+    padding-right: 30px;      
+}
+
+.latestitem2-left p {
+    font-size: 16px;
+}
+
+.latestitem2-right p {
+    font-size: 16px;
+}
+
+.latestitem2-left {
+    width: 55%;
+}
+
+.latestitem2-right {
+    width: 45%;
+}
+
+.latestitem2-right h3 {
+    font-size: 23px;
+}
+
+.latestitem2-left ul li {
+    font-size: 14px;
+    width: 37px;
+    height: 37px;
+    text-align: center;
+    line-height: 37px;
+    margin-right: 3px;
+}
+
+.latestitem3 a {
+    font-size: 16px;
+}
+
+.latestitem1-right a {
+    font-size: 14px;
+    width: 120px;
+    height: 45px;
+    display: block;
+    line-height: 45px;
+}
+
+
+.latestitem1-left img {
+    max-width: initial;
+    display: block;
+    height: 58px;
+}
+
+
+.bannerside {
+    position: absolute;
+    height: 360px;
+    bottom: 7%;
+    right: 0;
+}
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+
+.header-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+.privacypolicy-area {
+	padding: 60px 30px;
+}
+
+.footer-area {
+    padding: 60px 30px;
+    padding-bottom: 40px;
+}
+
+.footer-left {
+    width: 55%;
+}
+
+.footer-right {
+    width: 45%;
+}
+
+.footer-left p {
+    font-size: 12px;
+}
+
+
+.footer-right ul li a img {
+    height: 45px;
+    display: block;
+}
+
+
+.footer-nav ul li a {
+    font-size: 14px;
+}
+
+
+
+.hero-area {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.herotop-left h1 {
+    font-size: 64px;
+    line-height: 90px;
+}
+
+.herotoppart {
+    align-items: center;
+    gap: 10px;
+}
+
+
+.herototimerbox-text h3 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+}
+
+
+.herototimerbox-text {
+    width: 40%;
+}
+
+.herototime {
+    width: 60%;
+}
+
+.timer span {
+    font-size: 20px;
+    line-height: 45px;
+    width: 41px;
+    height: 45px;
+    display: block;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.heroimageitem3 a img {
+    width: 35px;
+    height: 35px;
+    display: block;
+    margin-left: 13px;
+}
+
+.heroimageitem3 a {
+    font-size: 14px;
+    width: 150px;
+    height: 51px;
+    padding: 11px;
+    border-radius: 14px;
+    text-align: center;
+    margin: auto;
+    margin-right: 0;
+}
+
+
+.lottogsoe-area {
+    padding-left: 30px;
+    padding-right: 30px;    
+}
+
+.lotterySupport-area {
+    padding-left: 30px;
+    padding-right: 30px;     
+}
+
+.supportitem {
+    height: 300px;
+}
+
+
+.playplayers-area {
+    padding-left: 30px;
+    padding-right: 30px;     
+}
+
+.latestfaq-area {
+    padding-left: 30px;
+    padding-right: 30px;      
+}
+
+.latestitem2-left p {
+    font-size: 16px;
+}
+
+.latestitem2-right p {
+    font-size: 16px;
+}
+
+.latestitem2-left {
+    width: 55%;
+}
+
+.latestitem2-right {
+    width: 45%;
+}
+
+.latestitem2-right h3 {
+    font-size: 23px;
+}
+
+.latestitem2-left ul li {
+    font-size: 14px;
+    width: 37px;
+    height: 37px;
+    text-align: center;
+    line-height: 37px;
+    margin-right: 3px;
+}
+
+.latestitem3 a {
+    font-size: 16px;
+}
+
+.latestitem1-right a {
+    font-size: 14px;
+    width: 120px;
+    height: 45px;
+    display: block;
+    line-height: 45px;
+}
+
+
+.latestitem1-left img {
+    max-width: initial;
+    display: block;
+    height: 58px;
+}
+
+
+.bannerside {
+    display: none;
+}
+
+.faqpart {
+    width: 100%;
+}
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.header-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.privacypolicy-area {
+    padding: 70px 30px;
+}
+
+.footer-area {
+    padding: 60px 30px;
+    padding-bottom: 40px;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footer-left img {
+    display: block;
+    height: 65px;
+    width: 260px;
+    margin: auto;
+}
+
+.footer-left {
+    width: 100%;
+}
+
+
+.footer-left p {
+	text-align: center;
+}
+
+.footer-right {
+    width: 100%;
+    padding-top: 15px;
+}
+
+.footer-right ul {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer-nav ul {
+    text-align: center;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding-right: 0px;
+    margin: 0 14px;
+}
+
+
+.hero-area {
+    padding: 80px 30px;
+    padding-top: 80px;
+}
+
+.herotoppart {
+    display: block;
+    gap: 0px;
+}
+
+.herotop-left {
+    width: 100%;
+}
+
+.herotop-right {
+    width: 100%;
+}
+
+.herotop-left h1 {
+    font-size: 56px;
+    line-height: 85px;
+}
+
+
+.herototimerbox-text h3 {
+    text-align: center;
+}
+
+.heroimageitem1 h2 {
+    font-size: 30px;
+    padding-bottom: 8px;
+}
+
+.heroimageitem1 p {
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+
+.lottogsoe-area {
+    padding: 80px 30px;
+    padding-bottom: 80px;
+}
+
+.lottogsoe-heading h2 {
+    font-size: 30px;
+}
+
+
+.lottogsoe-part {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.lotterySupport-area {
+    padding: 80px 30px;
+}
+
+.lotteryleft {
+    width: 40%;
+}
+
+.lotteryright {
+    width: 60%;
+}
+
+.lotteryright h2 {
+    font-size: 30px;
+    font-weight: 800;
+    margin: 0;
+    line-height: 48px;
+    padding-bottom: 12px;
+}
+
+.lotteryright p {
+    font-size: 14px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 23px;
+}
+
+.lotteryright p br {
+    display: none;
+}
+
+.support-heading h2 {
+    font-size: 30px;
+}
+
+.lottery-part {
+    margin-bottom: 80px;
+}
+
+.supportitem-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 28px;
+}
+
+
+.supportitem {
+    height: 330px;
+}
+
+.playplayers-area {
+    padding: 80px 30px;
+}
+
+
+.playitem-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 25px;
+    justify-content: space-around;
+    grid-row-gap: 25px;
+}
+
+.playpart-heading h2 {
+    font-size: 30px;
+}
+
+
+.playersfdheading {
+    padding-top: 80px;
+}
+
+.playersfdbox {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.latestfaq-area {
+    padding: 80px 30px;
+}
+
+.mainlatestbox {
+    display: block;
+    gap: 35px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.latestbox {
+    margin-bottom: 45px;
+}
+
+.bannerside {
+    display: none;
+}
+
+.faqpart {
+    width: 100%;
+}
+
+
+.heroimageitem1 {
+    width: 50%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.heroimageitems {
+    width: 50%;
+}
+
+.heroimageitem2 {
+    width: 60%;
+    padding-bottom: 20px;
+    padding-right: 0px;
+}
+
+.heroimageitem3 {
+    width: 40%;
+}
+
+.heroimageitem3 a {
+        font-size: 10px;
+        width: 111px;
+        height: 39px;
+        padding: 11px;
+        margin: auto;
+        margin-right: 0;
+        border-radius: 13px;
+}
+
+.heroimageitem3 a img {
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-left: 10px;
+}
+
+.heroimageitem2 p {
+    font-size: 12px;
+    padding-top: 9px;
+    font-weight: 400;
+}
+
+.heroimageitem2 p span {
+    font-size: 14px;
+}
+
+.heroimageitem2 img {
+    height: 30px;
+}
+
+
+
+}
+
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.header-area {
+    padding: 10px 16px;
+    padding-bottom: 10px;
+}
+
+.topheader-area {
+    padding: 2px 16px;
+}
+
+.topheader-part p {
+    font-size: 10px;
+}
+
+.topheader-part p img {
+    width: 16px;
+    height: 16px;
+    display: block;
+    margin-right: 4px;
+}
+
+.header-logo {
+	width: 55%;
+}
+
+.header-btn {
+	width: 45%;
+}
+
+.header-logo img {
+        display: block;
+        height: initial;
+        width: initial;
+        max-width: 100%;
+}
+
+
+
+.header-btn ul li:nth-child(1) {
+	padding-left: 0px;
+}
+
+    .header-btn ul li:nth-child(1) a {
+        font-size: 11px;
+        width: initial;
+        height: initial;
+        display: block;
+        text-align: center;
+        line-height: initial;
+        padding: 10px 10px;
+    }
+
+
+.header-btn ul li:nth-child(2) a {
+        font-size: 11px;
+        width: initial;
+        height: initial;
+        display: block;
+        text-align: center;
+        line-height: initial;
+        padding: 10px 10px;
+}
+
+.header-btn ul li {
+    display: inline-block;
+    padding-left: 5px;
+}
+
+
+
+.privacypolicy-area {
+    padding: 40px 16px;
+}
+
+.privacypolicy-part {
+    padding: 50px 16px;
+    box-sizing: border-box;
+    padding-bottom: 25px;
+    height: 100%;
+}
+
+
+.privacypolicy-item h3 {
+    line-height: 30px;
+}
+
+
+.privacypolicy-heading h2 {
+    font-size: 34px;
+    text-align: center;
+}
+
+.privacypolicy-heading p {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0;
+    padding-top: 14px;
+}
+.privacypolicy-heading {
+    padding-bottom: 55px;
+}
+
+
+.privacypolicy-item h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 25px;
+}
+
+.privacypolicy-item p {
+    font-size: 14px;
+    padding-bottom: 24px;
+
+}
+
+.privacypolicy-item h4 {
+    font-size: 14px;
+}
+
+
+
+
+
+.footer-left {
+    width: 100%;
+}
+.footer-right {
+    width: 100%;
+}
+
+.footer-left p {
+    font-size: 12px;
+    line-height: 23px;
+    margin: 0;
+    padding-top: 15px;
+}
+
+.footer-right ul {
+    padding-top: 35px;
+    text-align: left;
+}
+
+.footer-right ul li {
+    display: inline-block;
+    padding-left: 3px;
+    padding-right: 2px;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding-right: 12px;
+    padding-bottom: 20px;
+}
+
+
+.footer-area {
+    padding: 40px 16px;
+    padding-bottom: 25px;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footer-left img {
+    display: block;
+    height: 48px;
+    width: 192px;
+}
+
+.footer-nav {
+    padding: 30px 0;
+    padding-bottom: 22px;
+}
+
+.footer-right ul li:nth-child {
+	padding-right: 0px;
+}
+
+.footer-right ul li a img {
+    height: 39px;
+    display: block;
+}
+
+.footer-nav ul li a {
+    font-size: 12px;
+}
+
+.footer-copyright p {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.footer-copyright {
+    padding-top: 20px;
+}
+
+
+.form-area {
+    padding: 40px 16px;
+    padding-top: 40px;
+}
+
+.formbox {
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding: 40px 12px;
+    padding-bottom: 50px;
+}
+
+
+.checkboxpart br {
+	display: none;
+}
+
+.formheading h2 {
+    font-size: 34px;
+}
+
+.fromitems p {
+    font-size: 12px;
+}
+
+.checkboxpart {
+    padding-left: 36px;
+    user-select: none;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+
+.fromitems {
+    padding-bottom: 30px;
+}
+
+.fromitem3 h6 {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.fromitem3 {
+    padding-top: 14px;
+}
+
+.maincheckbox {
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+.lottogsoe-area {
+    padding: 60px 16px;
+    padding-bottom: 60px;
+}
+
+.lottogsoe-heading h2 {
+    font-size: 24px;
+}
+
+
+.lottogsoe-heading {
+    padding-bottom: 30px;
+}
+
+.lottogsoe-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 25px;
+    justify-content: space-around;
+    grid-row-gap: 25px;
+}
+
+.lottogsoe-item {
+    padding: 20px 20px;
+    border-radius: 15px;
+    height: initial;
+    padding-bottom: 40px;
+}
+
+.lottogsoe-left p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 10px;
+}
+
+
+.lotterySupport-area {
+    padding: 40px 16px;
+    border-top: 1px solid #000000;
+}
+
+.lottery-part {
+    display: block;
+    border-radius: 15px;
+    padding: 20px;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.lotteryleft {
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.lotteryright {
+    width: 100%;
+}
+
+.lotteryright h2 {
+    font-size: 24px;
+    line-height: 40px;
+    padding-bottom: 10px;
+}
+
+.lotteryright p br {
+    display: none;
+}
+
+.support-heading h2 {
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.support-heading {
+    padding-bottom: 30px;
+}
+
+.supportitem-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-row-gap: 30px;
+}
+
+
+.supportitem-text {
+    padding: 20px;
+}
+
+.supportitem-text p {
+    font-size: 14px;
+}
+
+.supportitem {
+    border-radius: 15px;
+    width: 100%;
+    height: initial;
+}
+
+.lotteryright p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}
+
+.playplayers-area {
+    padding: 40px 16px;
+}
+
+
+.playpart-heading h2 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.playpart-heading {
+    padding-bottom: 30px;
+}
+
+.playitem-part {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.playersfdheading {
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+
+.playersfdheading h2 {
+    font-size: 26px;
+}
+
+
+.playersfdbox {
+    grid-template-columns: repeat(1, 1fr);
+    grid-row-gap: 25px;
+}
+
+
+.playersfditem {
+    border-radius: 15px;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    padding-bottom: 30px;
+    height: 100%;
+}
+
+.mainplayersfd-img img {
+    width: 65px;
+    height: 65px;
+}
+
+.playersfdtext p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.mainplayersfdtext {
+    padding-left: 15px;
+}
+
+.mainplayersfdtext h3 {
+    font-size: 16px;
+    padding-bottom: 4px;
+}
+
+
+.mainplayersfdtext img {
+    max-width: initial;
+    display: block;
+    height: 19px;
+}
+
+.playersfdtext {
+    padding-top: 14px;
+}
+
+.latestfaq-area {
+    padding: 40px 16px;
+    position: relative;
+}
+
+.latestheading h2 {
+    font-size: 24px;
+}
+
+.latestheading p {
+    font-size: 14px;
+    font-weight: 300;
+    padding-top: 12px;
+}
+
+.mainlatestbox {
+    display: block;
+    gap: 35px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.latestbox {
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.latestitem1-right a {
+    font-size: 14px;
+    width: 90px;
+    height: 38px;
+    display: block;
+    line-height: 38px;
+}
+
+.latestitem1 {
+    padding: 15px;
+}
+
+.latestitem1-left img {
+    max-width: initial;
+    display: block;
+    height: 40px;
+}
+
+.latestitem2 {
+    display: block;
+    padding: 15px;
+    box-sizing: border-box;
+    padding-bottom: 30px;
+}
+
+.latestitem2-left p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 10px;
+}
+
+.latestitem2-left ul li {
+    font-size: 14px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    margin-right: 2px;
+}
+
+.latestitem2-right {
+    padding-top: 25px;
+}
+
+.latestitem2-right p {
+    font-size: 16px;
+    margin: 0;
+    line-height: 26px;
+    padding-bottom: 8px;
+    text-align: left;
+}
+
+.latestitem2-right h3 {
+    font-size: 23px;
+    font-weight: 800;
+    text-align: left;
+}
+
+.latestitem3 a {
+    font-size: 16px;
+    padding: 10px 0;
+}
+
+.bannerside {
+    display: none;
+}
+
+.faqpart {
+    border-radius: 15px;
+    width: 100%;
+    overflow: hidden;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    padding-top: 35px;
+}
+
+.faq-heading h2 {
+    font-size: 26px;
+}
+
+.ziehharmonika h3 {
+    font-size: 12px;
+    border-radius: 0;
+    padding: 20px 10px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-right: 34px;
+    line-height: 20px;
+}
+
+.ziehharmonika .collapseIcon img {
+    max-width: initial;
+    height: 13px;
+    width: 13px;
+}
+
+.ziehharmonika > div p {
+    padding: 0 10px;
+}
+
+.ziehharmonika > div {
+    border-radius: 0px;
+    padding: 0px 0px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 6px;
+    top: 51%;
+    font-size: 20px;
+}
+
+.hero-area {
+    padding: 40px 16px;
+    padding-top: 40px;
+}
+
+.herotoppart {
+    display: block;
+    align-items: center;
+    gap: 0px;
+}
+
+.herotop-left {
+    width: 100%;
+}
+
+.herotop-right {
+    width: 100%;
+}
+
+.herotop-left h1 {
+    font-size: 42px;
+    line-height: 58px;
+}
+
+
+.heroimageitem1 h2 {
+    font-size: 24px;
+    padding-bottom: 6px;
+}
+
+
+.mainheroimagepart {
+    bottom: 23%;
+    width: 100%;
+    display: block;
+}
+
+.herotoprt-text p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 12px;
+}
+
+
+.herototimerbox {
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 35px;
+    gap: 15px;
+    width: 255px;
+    display: block;
+}
+
+.herototimerbox-text {
+    width: 100%;
+}
+
+.herototimerbox-text h3 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+.herototime {
+    width: 100%;
+}
+
+.mbheroimg {
+    display: block;
+}
+.heroimage {
+    display: none;
+}
+
+.mbheroimg img {
+    max-width: 100%;
+    display: block;
+}
+
+.heroimageitems {
+  display: none;
+}
+
+.heroimageitem1 {
+    width: 100%;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.heroimageitem2 {
+    width: 100%;
+}
+
+.heroimageitem1 p {
+    font-size: 13px;
+    line-height: 18px;
+    margin: 0;
+    font-weight: 300;
+}
+
+}
